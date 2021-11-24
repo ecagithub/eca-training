@@ -38,7 +38,7 @@ export default function Footer() {
             {license_data.license_data.appVersion}
           </Typography>
           <Typography variant="subtitle2">
-            License Remaining:
+            License :
             {license_data.license_data.remainingDays}
           </Typography>
         </Grid>
